@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1585
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "imageprocessing_study", "imageprocessing_study\imageprocessing_study.vcxproj", "{8179CB8E-25CD-48F7-9E60-1AAAEDEBE03B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8179CB8E-25CD-48F7-9E60-1AAAEDEBE03B}.Debug|x64.ActiveCfg = Debug|x64
+		{8179CB8E-25CD-48F7-9E60-1AAAEDEBE03B}.Debug|x64.Build.0 = Debug|x64
+		{8179CB8E-25CD-48F7-9E60-1AAAEDEBE03B}.Debug|x86.ActiveCfg = Debug|Win32
+		{8179CB8E-25CD-48F7-9E60-1AAAEDEBE03B}.Debug|x86.Build.0 = Debug|Win32
+		{8179CB8E-25CD-48F7-9E60-1AAAEDEBE03B}.Release|x64.ActiveCfg = Release|x64
+		{8179CB8E-25CD-48F7-9E60-1AAAEDEBE03B}.Release|x64.Build.0 = Release|x64
+		{8179CB8E-25CD-48F7-9E60-1AAAEDEBE03B}.Release|x86.ActiveCfg = Release|Win32
+		{8179CB8E-25CD-48F7-9E60-1AAAEDEBE03B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {364D4765-3874-467B-B696-DEA973C2E54F}
+	EndGlobalSection
+EndGlobal
